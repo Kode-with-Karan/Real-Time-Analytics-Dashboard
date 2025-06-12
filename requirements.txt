@@ -1,0 +1,6 @@
+Django==4.2.16
+channels==4.1.0
+redis==5.0.1
+psycopg2-binary
+asgiref==3.7.2
+channels-redis==4.1.0
